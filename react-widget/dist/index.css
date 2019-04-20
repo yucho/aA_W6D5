@@ -1,0 +1,35 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.widget {
+  margin: 0 auto;
+  padding: 14px;
+  width: 300px;
+  background: gray;
+  border: 3px solid white;
+  border-radius: 20px;
+  font-weight: 700;
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+.clock {
+  background: darkorange;
+}
+
+.weather {
+  background: darkolivegreen;
+}
+
+.widget ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.widget li {
+  padding: 2px 30px;
+  display: flex;
+  justify-content: space-between;
+}

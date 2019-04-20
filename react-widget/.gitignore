@@ -1,0 +1,5 @@
+# Ignore this huge dependency jumble
+/node_modules
+
+# Ignore Mac garbage
+.DS_Store

@@ -1,0 +1,24 @@
+{
+  "name": "react-widget",
+  "version": "1.0.0",
+  "description": "Four simple widgets using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "say hello",
+    "webpack": "webpack --watch --mode=development"
+  },
+  "author": "Phucho",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.30.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  }
+}
